@@ -104,7 +104,7 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 |Role        | Name            | Slack       | Email |
 |:--         | :--             | :--         | :-- |
 |Lead Instructor  | Jim Clark       | @Jim Clark  | jim.clark@generalassemb.ly |
-|Lead Instructor - East | Chris Ogilvy |  @Chris Ogilvy  | chris.ogilvy@generalassemb.ly |
+|Lead Instructor | Chris Ogilvy |  @Chris Ogilvy  | chris.ogilvy@generalassemb.ly |
 |Instructor Associate | Shaw Kitajima |  @Shaw Kitajima  | shaw.kitajima@generalassemb.ly |
 
 ### Links to Sign Up for Global Instructor's Office Hours
