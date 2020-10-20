@@ -52,7 +52,7 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>CS Topics<br>Project Week<br>Project Deployment to GitHub Pages</td>
+      <td>Project Week<br>Project Deployment to GitHub Pages</td>
     </tr>
     <tr>
       <td rowspan="3">Full-stack Development</td>
