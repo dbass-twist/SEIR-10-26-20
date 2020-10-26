@@ -116,8 +116,8 @@ Click on the links provided below to schedule a 15 minute session for the week:
 |Instructor| Sign Up Link| Zoom Link |
 |:--|:-:|:-:|
 |Jim Clark| [link](https://calendly.com/jim-clark-ga/one-on-one) | [link](https://generalassembly.zoom.us/j/2909161095?pwd=MnRSczRBazFwTktzNmJDQzRpa3drUT09) |
-| Chris Ogilvy |  | |
-| Shaw Kitajima |  | |
+| Chris Ogilvy | [link](https://calendly.com/chris-ogilvy-ga/15min) | [link](https://generalassembly.zoom.us/j/9446159322?pwd=K2dKMFVhYUFKNGkrSFowTXBpd0R0Zz09) |
+| Shaw Kitajima |  | [link](https://generalassembly.zoom.us/j/6109135206?pwd=UVpkM3ZZSUVzSk15NHNWby9PSzdOUT09) |
 
 Note that the instructors will slack you a Zoom link prior to the session.
 
