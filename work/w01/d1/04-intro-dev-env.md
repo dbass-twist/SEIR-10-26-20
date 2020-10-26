@@ -21,21 +21,21 @@
 - Developers are more productive when their hands are on the keyboard.
 
 - Open applications using _Spotlight_ instead of the mouse by:
-	1. Pressing `cmd`+`space` to open _Spotlight_
+	1. Pressing `cmd+space` to open _Spotlight_
 	2. Start typing the name of the app until the app is highlighted
 	3. Press `enter` to open the app!
 
 ### Switching Between Applications
 
-- Quickly switch between running applications by pressing `cmd`+`tab`.
+- Quickly switch between running applications by pressing `cmd+tab`.
 
-- If a minimized applications does not display after tabbing to it with `cmd`+`tab`:
+- If a minimized applications does not display after tabbing to it with `cmd+tab`:
 	1. Continue to hold down `cmd` and release `tab`
 	2. Press `option` then release `cmd`
 
 #### Switching Between Instances of an Application
 
-- You can switch between multiple windows of the same application using `cmd`+`\` (that's a back-tick character, which is above the `tab` key).
+- You can switch between multiple windows of the same application using `cmd` + `back-tick` (the character above the `tab` key).
 
 - Note that it's best to minimize how many windows/applications you have open when developing to make switching between applications quicker and minimize distractions to the job at hand.
 
@@ -75,11 +75,11 @@
 
 The following keyboard shortcuts can be used to take screenshots of your screen:
 
-- Whole screen: `shift`+`cmd`+`3`
-- Part of your screen: `shift`+`cmd`+`4`
-- A certain window: `shift`+`cmd`+`4`, then `spacebar` to toggle window mode
+- Whole screen: `shift-cmd-3`
+- Part of your screen: `shift-cmd-4`
+- A certain window: `shift-cmd-4`, then `spacebar` to toggle window mode
 
-💪 Try uploading a screenshot to Imgur. 
+💪 Try uploading a screenshot to Imgur.
 
 ## Using _Spectacle_ to Position and Size Windows
 
@@ -95,11 +95,11 @@ The following keyboard shortcuts can be used to take screenshots of your screen:
 
 - Here are the most popular hotkeys:
 
-	- Make window full-size — `opt`+`cmd`+`F`
-	- Move to the left half — `opt`+`cmd`+`←`
-	- Move to the right half — `opt`+`cmd`+`→`
-	- Move to the top half — `opt`+`cmd`+`↑`
-	- Move to the bottom half — `opt`+`cmd`+`↓`
+	- Make window full-size — `opt + cmd + F`
+	- Move to the left half — `opt + cmd + ←`
+	- Move to the right half — `opt + cmd + →`
+	- Move to the top half — `opt + cmd + ↑`
+	- Move to the bottom half — `opt + cmd + ↓`
 
 - Pressing the same hotkey will size the window by thirds!
 
@@ -289,7 +289,7 @@ Here are the basic command tasks we'll try out:
 
 - Pressing the up and down arrows in Terminal will cycle through previously entered commands.  This can be a huge time saver!
 
-- If you'd like to clear the Terminal window, simply press `cmd`+`k`.
+- If you'd like to clear the Terminal window, simply press `cmd+k`.
 
 ## Using _VS Code_ to Open and Edit Files
 
