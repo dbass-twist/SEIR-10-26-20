@@ -11,7 +11,7 @@
 | Foster | [link](https://git.generalassemb.ly/fosterhorak/daily-js-code-challenges) |  |  |  |
 | Galina |  |  |  |  |
 | Colby (Jacob) | [link](https://git.generalassemb.ly/cobycobyk/daily-js-code-challenges) |  |  |  |
-| Jonah |  |  |  |  |
+| Jonah | [link](https://git.generalassemb.ly/jonahmallard/daily-js-code-challenges) |  |  |  |
 | Luke | [link](https://git.generalassemb.ly/nicolinilr/daily-js-code-challenges) |  |  |  |
 | Michael | [link](https://git.generalassemb.ly/mgrebowicz/daily-js-code-challenges) |  |  |  |
 | Madison | [link](https://git.generalassemb.ly/mlisle/daily-js-code-challenges) |  |  |  |
