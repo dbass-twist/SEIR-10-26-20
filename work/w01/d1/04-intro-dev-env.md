@@ -75,11 +75,11 @@
 
 The following keyboard shortcuts can be used to take screenshots of your screen:
 
-- Whole screen: `shift-cmd-3`
-- Part of your screen: `shift-cmd-4`
-- A certain window: `shift-cmd-4`, then `spacebar` to toggle window mode
+- Whole screen: `shift`+`cmd`+`3`
+- Part of your screen: `shift`+`cmd`+`4`
+- A certain window: `shift`+`cmd`+`4`, then `spacebar` to toggle window mode
 
-💪 Try uploading a screenshot to Imgur.
+💪 Try uploading a screenshot to Imgur. 
 
 ## Using _Spectacle_ to Position and Size Windows
 
