@@ -63,7 +63,7 @@
 
 <body>
   <button id="pick">Next SEI<br>Contestant</button>
-  <label>Campus <select></select></label>
+  <!-- <label>Campus <select></select></label> -->
   <div id="container">
     <ul id="picked"></ul>
   </div>
@@ -72,29 +72,29 @@
     const re = /\((.+)\)/;
 
     const students = [
-      'Andrew (SEIR)',
-      'Anthony (SEIR)',
-      'Armeen (SEIR)',
-      'Benjamin (SEIR)',
-      'Brittany (SEIR)',
-      'Daniel (SEIR)',
-      'David (SEIR)',
-      'Doireann (SEIR)',
-      'Foster (SEIR)',
-      'Greg (SEIR)',
-      'Jacob (SEIR)',
-      'Jonah (SEIR)',
-      'Luke (SEIR)',
-      'Maciej (SEIR)',
-      'Madison (SEIR)',
-      'Marc (SEIR)',
-      'Martin (SEIR)',
-      'Nicholas (SEIR)',
-      'Richard (SEIR)',
-      'Sabona (SEIR)',
-      'Stephanie (SEIR)',
-      'Sungbok (SEIR)',
-      'Wesley (SEIR)',
+      'Andrew',
+      'Anthony',
+      'Armeen',
+      'Benjamin',
+      'Brittany',
+      'Daniel',
+      'David',
+      'Doireann',
+      'Foster',
+      'Greg',
+      'Jacob',
+      'Jonah',
+      'Luke',
+      'Maciej',
+      'Madison',
+      'Marc',
+      'Martin',
+      'Nicholas',
+      'Richard',
+      'Sabona',
+      'Stephanie',
+      'Sungbok',
+      'Wesley',
     ];
 
     let first, filteredStudents;
@@ -119,10 +119,11 @@
       }
     });
 
-    selectEl.addEventListener('change', refreshStudents);
+    // selectEl.addEventListener('change', refreshStudents);
 
     function refreshStudents() {
-      let campus = selectEl.value;
+      // let campus = selectEl.value;
+      let campus = 'ALL';
       filteredStudents =  campus === 'ALL' ?
         students.slice() : students.filter(s => s.includes(`(${campus})`));
       pickedList.innerHTML = "<li>Who's First?</li>";
@@ -130,14 +131,14 @@
     }
 
     function init() {
-      let campuses = Object.keys(students.reduce(function (obj, s) {
-        obj[re.exec(s)[1]] = true;
-        return obj;
-      }, {}));
-      selectEl.innerHTML = '<option value="ALL">-ALL-</option>';
-      campuses.forEach(function (c) {
-        selectEl.innerHTML += `<option value="${c}">${c}</option>`;
-      });
+      // let campuses = Object.keys(students.reduce(function (obj, s) {
+      //   obj[re.exec(s)[1]] = true;
+      //   return obj;
+      // }, {}));
+      // selectEl.innerHTML = '<option value="ALL">-ALL-</option>';
+      // campuses.forEach(function (c) {
+      //   selectEl.innerHTML += `<option value="${c}">${c}</option>`;
+      // });
       refreshStudents();
     }
 
