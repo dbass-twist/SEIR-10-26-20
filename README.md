@@ -27,9 +27,9 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 	- December 24th, 25th & 28th-31st
 	- January 1st & 18th
 
-### Link to Global Zoom Room
+### Link to the class Zoom Room
 
-[Link to join the Global Zoom Room]()
+[Link to join the class Zoom Room](https://generalassembly.zoom.us/j/97268572929?pwd=b2tzUXVOSVFJbmhGU1hvVnBUWE84UT09)
 
 ### Course Curriculum
 
