@@ -182,7 +182,7 @@ function sayHello(name) {
 ##### 2) Function Expression
 
 ```js
-var sayHello = function(name) {
+const sayHello = function(name) {
   console.log('Hello ' + name + '!');
 };
 ```
@@ -341,7 +341,7 @@ In JavaScript, it's easy to pass around functions like data -  because they are 
 Often functions or methods (functions attached to an object) will require a function be provided as an argument.  For example, the `forEach` method on arrays:
 	
 ```js
-var a = ['red', 'green', 'blue'];
+const a = ['red', 'green', 'blue'];
 	
 a.forEach(function(color) {
   console.log(color);
@@ -506,7 +506,7 @@ function setColor(bicycle, color) {
   bicycle.color = color || 'purple';
 }
 
-var bike = new Bicycle();
+const bike = new Bicycle();
 setColor(bike, 'blue');  // sets color to blue
 setColor(bike);  // sets color to purple by default
 ```
