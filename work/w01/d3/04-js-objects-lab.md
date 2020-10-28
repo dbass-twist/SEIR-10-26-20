@@ -139,7 +139,7 @@ const talkingHeadsAlbums = [
 
 
 
-// Exercise 9:  Using the talkingHeadsAlbums array, assign album7's released property to album3's released property
+// Exercise 9:  Using the talkingHeadsAlbums array, assign album7's released property to album6's released property
 
 
 
@@ -161,7 +161,7 @@ console.log('Exercise 5:', album4.albumDetails.label);
 console.log('Exercise 6:', album5.albumDetails.labels[1]);
 console.log('Exercise 7:', formats);
 console.log('Exercise 8:', labels);
-console.log('Exercise 9:', talkingHeadsAlbums[2].albumDetails.released.toLocaleDateString());
+console.log('Exercise 9:', talkingHeadsAlbums[5].albumDetails.released.toLocaleDateString());
 console.log('Exercise 10:', albumDetails);
 ```
 
@@ -171,7 +171,7 @@ console.log('Exercise 10:', albumDetails);
 Exercise 1: Talking Heads - 77
 Exercise 2: Sire
 Exercise 3: LP
-Exercise 4: 3/15/1988
+Exercise 4: 8/3/1979
 Exercise 5: Sire
 Exercise 6: EMI
 Exercise 7: [ 'CD', 'cassette', 'LP' ]
