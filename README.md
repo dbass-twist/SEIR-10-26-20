@@ -136,7 +136,7 @@ Graduation requires that 80% of deliverables be completed (working) and delivere
 
 [Link to the Deliverable Schedule in the `/resources` directory](./resources/deliverable-schedule.md)
 
-[Link to submit Deliverables]()
+[Link to submit Deliverables](https://docs.google.com/forms/d/e/1FAIpQLSfVNg8EYmnn_911JOQE0EHsXtuHgfcTPDw805QUbUcRkfvxZA/viewform)
 
 ### Class Repo Structure
 

@@ -21,7 +21,7 @@
 
 Before we dive into any particular programming language, we should first consider what programming languages are used for - developing applications.
 
-We develop computer applications/programs to solve problems and/or provide services to uses.
+We develop computer applications/programs to solve problems and/or provide services to us.
 
 Generally, applications manipulate and display data.
 

@@ -1,6 +1,3 @@
-[click to view as a presentation](https://presentations.generalassemb.ly/512005e819c210c3bae07b7d52f9fb8b#/1)
-
----
 <img src="https://i.imgur.com/DEsPVNw.png" height="400">
 
 # Intro to JavaScript Arrays
