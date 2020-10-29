@@ -15,7 +15,6 @@
 | Luke | [link](https://git.generalassemb.ly/nicolinilr/daily-js-code-challenges) |  |  |  |
 | Michael | [link](https://git.generalassemb.ly/mgrebowicz/daily-js-code-challenges) |  |  |  |
 | Madison | [link](https://git.generalassemb.ly/mlisle/daily-js-code-challenges) |  |  |  |
-| Marc | [link](https://git.generalassemb.ly/1255/daily-js-code-challenges) |  |  |  |
 | Martin | [link](https://git.generalassemb.ly/BlueCadet-3/daily-js-code-challenges) |  |  |  |
 | Nathan (Sungbok) | [link](https://git.generalassemb.ly/grey1287/daily-js-code-challenges) |  |  |  |
 | Nicholas | [link](https://git.generalassemb.ly/nnguyen20/daily-js-code-challenges) |  |  |  |
