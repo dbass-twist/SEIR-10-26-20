@@ -114,7 +114,7 @@ A good word to help remember the ordering of these values is **TR**ou**BL**e (to
    
 [This documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties) explains all about shorthand properties.
 
-### 3. Adding Styles to a Web Page<small>(code along)</small>
+### 3. Adding Styles to a Web Page
 
 #### Setup
 
@@ -280,7 +280,7 @@ Refresh the page, note your observations and let's do a quick review...
 
 **4. Which method is considered a best practice and why?** 
 
-### 4. CSS Selectors<small> (25 mins)</small>
+### 4. CSS Selectors
 
 As shown earlier, the **CSS Selector** portion of a CSS rule, targets an element, or elements, to be styled by CSS _property:value_ declarations.
 
