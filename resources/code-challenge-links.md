@@ -9,7 +9,7 @@
 | Daniel | [link](https://git.generalassemb.ly/danpolicar/daily-js-code-challenges) |  |  |  |
 | David | [link](https://git.generalassemb.ly/DaCo/daily-js-code-challenges) |  |  |  |
 | Foster | [link](https://git.generalassemb.ly/fosterhorak/daily-js-code-challenges) |  |  |  |
-| Galina |  |  |  |  |
+| Galina | [link](https://git.generalassemb.ly/gkutieva/daily-js-code-challenges) |  |  |  |
 | Colby (Jacob) | [link](https://git.generalassemb.ly/cobycobyk/daily-js-code-challenges) |  |  |  |
 | Jonah | [link](https://git.generalassemb.ly/jonahmallard/daily-js-code-challenges) |  |  |  |
 | Michael | [link](https://git.generalassemb.ly/mgrebowicz/daily-js-code-challenges) |  |  |  |
