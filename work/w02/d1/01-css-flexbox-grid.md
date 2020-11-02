@@ -221,11 +221,12 @@ nav > div:last-child {
 
 Unlike Flexbox, **CSS Grid** lays out its **grid items** in **two-dimensions**.
 
-**CSS Grids** have the concept of the following:
+**CSS Grids** have the following "pieces":
 
 - **Tracks**
 - **Cells**
 - **Areas**
+- **Grid Lines**
 - **Gaps**
 
 <img src="https://i.imgur.com/yNTGxhx.png">
