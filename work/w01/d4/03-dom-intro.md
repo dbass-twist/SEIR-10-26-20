@@ -147,7 +147,7 @@ If the CSS selector provided to `querySelector()` matches multiple elements, it 
 
 If no matching node is found, `null` is returned.
 
-### 💪 Practice (4 mins)
+### 💪 Practice (3 mins)
 
 1. In `index.html`, add a `<p>` tag below the `<h1>` and give it a `class` of `cool`, then...
 
@@ -208,7 +208,7 @@ Here are a few of the methods that the [Element API](https://developer.mozilla.o
 - `setAttribute(name, value)`
 - `hasAttribute(name)`
 
-### 💪 Practice - Attributes(5 mins)
+### 💪 Practice - Attributes (5 mins)
 
 1. In `index.html`, add an `<a>` element to `index.html` with content of "Visit Google" but **without an `href` attribute**.
 
@@ -268,7 +268,7 @@ Of course, like the name says, it selects **all** DOM elements that match the pr
 
 By itself, `querySelectorAll` actually provides all the DOM selection power a web dev needs!
 
-### 💪 Practice - Selecting Multiple Elements (1 min)
+### 💪 Practice - Selecting Multiple Elements (2 mins)
 
 1. Use `document.querySelectorAll()` to select all of the elements with a class of `comment` and assign them to a variable named `commentEls`.
 

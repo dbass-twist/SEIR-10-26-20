@@ -190,9 +190,9 @@ There are several ways to add DOM elements to the document using JavaScript.
 A common way to add new elements to another element is by using the `appendChild` method like this:
 
 ```js
-  li.textContent = inp.value;
+  liEl.textContent = inp.value;
   // new code below
-  document.querySelector('ul').appendChild(li);
+  document.querySelector('ul').appendChild(liEl);
 });
 ```
 > Note that the new element is appended as the last child.
@@ -254,7 +254,9 @@ Not only is event delegation more efficient, by it's very design, it's dynamic -
 
 Without event delegation, you would have to attach a listener every time a new element is added, such as when the comment `<li>` is added. 
 
-### 💪 Practice - Event Delegation (5 mins)
+### 💪 Practice - Event Delegation (2 mins)
+
+Now that we have a delegated event listener in place, let's:
 
 1. Write the code to change the color (your choice) of the text of a clicked comment.
 
