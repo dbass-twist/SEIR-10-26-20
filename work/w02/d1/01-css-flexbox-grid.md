@@ -309,7 +309,7 @@ With the class defined - **let's add it to the `<aside>`, `<main>` & `<footer>` 
 Using Chrome DevTools to explore the page's elements, we can make the following observations:
 
 - A **CSS Grid** has a single column by default.
-- Each **grid item** (direct child) was placed its own row by default.
+- By default, each **grid item** is placed in a column from left-to-right until there are no more columns, then they a new row is created.
 
 Now let's define the columns and rows necessary to layout our page as desired.  Go back, look at the UI we want to layout and answer these questions:
 
