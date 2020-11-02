@@ -114,7 +114,6 @@ You will have a maximum of 10 minutes to present your project following these gu
 1. **War** (the card game)
 1. **Blackjack**
 1. **Simon** (warning: will require asynchronous timing)
-1. **Connect Four** (not this time since we already did it!)
 1. **Slot Machine**
 1. **Mancala**
 1. **Minesweeper**
@@ -122,9 +121,9 @@ You will have a maximum of 10 minutes to present your project following these gu
 1. **Video Poker**
 1. **Checkers** (no AI required - player vs. player is fine)
 1. **Solitaire**
-1. **Battleship** (would require a little AI to implement a computer opponent)
+1. **Battleship** (would require some AI to implement a computer opponent)
 
-**It is highly recommended that you choose from the above list, however, if you feel confident and have a game not on the list that you'd like to code, please be sure to get approval from your instructor before starting your planning (wireframes & pseudocode)!**
+**Only the above games are approved.  Any deviation, which is extremely discouraged, must receive approval from your instructor before starting your planning (wireframes & pseudocode)!**
 
 > IMPORTANT:  Because it's important to demonstrate your ability to perform DOM manipulation using JavaScript, all games should be DOM-based, not canvas-based.
 
