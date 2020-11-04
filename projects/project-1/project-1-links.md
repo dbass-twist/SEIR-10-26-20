@@ -2,7 +2,7 @@
 
 | Student | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|
-| Andrew |  |  |  |
+| Andrew | Connect Four (maybe Checkers) |  |  |
 | Anthony | Connect Four |  |  |
 | Armeen |  |  |  |
 | Benjamin |  |  |  |
