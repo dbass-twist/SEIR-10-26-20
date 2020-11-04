@@ -18,5 +18,5 @@
 | Nicholas |  |  |  |
 | Richard |  |  |  |
 | Sabona |  |  |  |
-| Stephanie |  |  |  |
+| Stephanie | Connect Four |  |  |
 | Wesley |  |  |  |
