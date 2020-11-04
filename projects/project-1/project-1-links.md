@@ -5,10 +5,10 @@
 | Andrew | Connect Four (maybe Checkers) |  |  |
 | Anthony | Connect Four |  |  |
 | Armeen |  |  |  |
-| Benjamin |  |  |  |
+| Benjamin | Connect Four |  |  |
 | David |  |  |  |
 | Foster |  |  |  |
-| Galina |  |  |  |
+| Galina | Connect Four |  |  |
 | Coby |  |  |  |
 | Jonah |  |  |  |
 | Michael |  |  |  |
