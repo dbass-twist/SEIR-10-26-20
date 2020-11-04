@@ -13,7 +13,7 @@
 | Jonah |  |  |  |
 | Michael |  |  |  |
 | Madison |  |  |  |
-| Martin |  |  |  |
+| Martin | War |  |  |
 | Nathan (Sungbok) |  |  |  |
 | Nicholas |  |  |  |
 | Richard |  |  |  |
