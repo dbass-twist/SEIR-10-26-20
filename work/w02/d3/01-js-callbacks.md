@@ -55,21 +55,23 @@ Create a new HTML, CSS, JS Repl and name it **Callback Functions**.
 
 - **Be careful not to invoke the callback when passing it** - in other words, do not put parens after it! Otherwise, you'll be passing the result returned by that function instead of the function itself.
 
-##### REVIEW QUESTIONS - What are Callback Functions?
+##### ❓ REVIEW QUESTIONS
 
-```js
-const colors = ['red', 'green', 'blue'];
-	
-colors.forEach(function(color, idx) {
-  console.log(`${idx + 1} - ${color}`);
-});
-```
+1. **What's a callback function?**
 
-**Based upon the above code, answer the following:**
+2. **Based upon the following code:**
+
+	```js
+	const colors = ['red', 'green', 'blue'];
+		
+	colors.forEach(function(color, idx) {
+	  console.log(`${idx + 1} - ${color}`);
+	});
+	```
 	
-❓ What part of the code is the callback function?
+	2A) **What part of the code is the callback function?**
 	
-❓ How many times will the higher-order function, `forEach`, invoke the callback?
+	2B) **How many times will the higher-order function, `forEach`, invoke the callback?**
 
 ### 3. Why are Callbacks Needed?
 
