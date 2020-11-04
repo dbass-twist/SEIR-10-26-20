@@ -6,7 +6,7 @@
 | Anthony | Connect Four |  |  |
 | Armeen | Connect Four |  |  |
 | Benjamin | Connect Four |  |  |
-| David |  |  |  |
+| David | Minesweeper |  |  |
 | Foster | War |  |  |
 | Galina | Connect Four |  |  |
 | Coby | Roulette |  |  |
