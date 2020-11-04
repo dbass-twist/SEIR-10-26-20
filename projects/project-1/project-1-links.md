@@ -12,7 +12,7 @@
 | Coby | Roulette |  |  |
 | Jonah | Mancala |  |  |
 | Michael | Connect Four |  |  |
-| Madison |  |  |  |
+| Madison | Mancala |  |  |
 | Martin | War |  |  |
 | Nathan (Sungbok) | Minesweeper |  |  |
 | Nicholas | Blackjack |  |  |
