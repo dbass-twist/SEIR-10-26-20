@@ -16,7 +16,7 @@
 | Martin | War |  |  |
 | Nathan (Sungbok) | Minesweeper |  |  |
 | Nicholas | Blackjack |  |  |
-| Richard |  |  |  |
+| Richard | Battleship (or Blackjack) |  |  |
 | Sabona | Checkers |  |  |
 | Stephanie | Connect Four |  |  |
 | Wesley | Mancala |  |  |
