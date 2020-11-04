@@ -9,13 +9,13 @@
 | David |  |  |  |
 | Foster | War |  |  |
 | Galina | Connect Four |  |  |
-| Coby |  |  |  |
-| Jonah |  |  |  |
-| Michael |  |  |  |
+| Coby | Roulette |  |  |
+| Jonah | Mancala |  |  |
+| Michael | Connect Four |  |  |
 | Madison |  |  |  |
 | Martin | War |  |  |
-| Nathan (Sungbok) |  |  |  |
-| Nicholas |  |  |  |
+| Nathan (Sungbok) | Minesweeper |  |  |
+| Nicholas | Blackjack |  |  |
 | Richard |  |  |  |
 | Sabona |  |  |  |
 | Stephanie | Connect Four |  |  |
