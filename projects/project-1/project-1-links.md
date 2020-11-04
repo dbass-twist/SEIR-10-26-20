@@ -3,10 +3,9 @@
 | Student | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|
 | Andrew |  |  |  |
-| Anthony |  |  |  |
+| Anthony | Connect Four |  |  |
 | Armeen |  |  |  |
 | Benjamin |  |  |  |
-| Dan |  |  |  |
 | David |  |  |  |
 | Foster |  |  |  |
 | Galina |  |  |  |
