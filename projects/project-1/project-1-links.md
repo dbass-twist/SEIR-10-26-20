@@ -7,7 +7,7 @@
 | Armeen |  |  |  |
 | Benjamin | Connect Four |  |  |
 | David |  |  |  |
-| Foster |  |  |  |
+| Foster | War |  |  |
 | Galina | Connect Four |  |  |
 | Coby |  |  |  |
 | Jonah |  |  |  |
