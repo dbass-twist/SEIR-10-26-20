@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|
 | Andrew | Connect Four (maybe Checkers) |  |  |
 | Anthony | Connect Four |  |  |
-| Armeen |  |  |  |
+| Armeen | Connect Four |  |  |
 | Benjamin | Connect Four |  |  |
 | David |  |  |  |
 | Foster | War |  |  |
@@ -17,6 +17,6 @@
 | Nathan (Sungbok) | Minesweeper |  |  |
 | Nicholas | Blackjack |  |  |
 | Richard |  |  |  |
-| Sabona |  |  |  |
+| Sabona | Checkers |  |  |
 | Stephanie | Connect Four |  |  |
-| Wesley |  |  |  |
+| Wesley | Mancala |  |  |
