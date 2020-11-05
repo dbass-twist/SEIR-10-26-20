@@ -27,7 +27,7 @@
 
 - Created by John Resig in 2006.
 
-- jQuery is the world's most popular JS library with more than 55% of the top 10,000 websites using it.
+- jQuery is the world's most popular JS library by far - [check out this comparison to React](https://www.similartech.com/compare/jquery-vs-react-js).
 
 BTW, you'll see the terms _library_ and _framework_ often used interchangably. Yes, these two terms are similar, however, there is a subtle difference:
 
