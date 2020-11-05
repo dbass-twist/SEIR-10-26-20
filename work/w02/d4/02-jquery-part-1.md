@@ -102,9 +102,9 @@ There are two ways we can include jQuery:
 
    ```js
    <script
-  		src="https://code.jquery.com/jquery-3.2.1.min.js"
-  		integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  		crossorigin="anonymous"></script>
+  	  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  	  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  	  crossorigin="anonymous"></script>
    ```
 
 Downloading libraries and saving them to a folder in your project allows you to work with your project without an internet connection.
@@ -152,7 +152,7 @@ Before we can change the properties of DOM elements, we must first _select_ them
 
 You've already had some practice doing this with native JavaScript.
 
-**Q: What native JS methods have we used to select elements in the DOM?**
+❓**What vanilla JS methods have we used to select elements in the DOM?**
 
 ### The _jQuery_ Function, aka - `$()`
 
