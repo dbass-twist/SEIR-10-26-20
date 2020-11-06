@@ -2,13 +2,13 @@
 
 | Student | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|
-| Andrew | Connect Four (maybe Checkers) |  |  |
-| Anthony | Connect Four |  |  |
+| Andrew | Connect Four (maybe Checkers) | [link](https://github.com/parke415/connect-four) |  |
+| Anthony | Connect Four | [link](https://github.com/Thedbzr/connectfour) |  |
 | Armeen | Connect Four |  |  |
-| Benjamin | Connect Four |  |  |
+| Benjamin | Connect Four | [link](https://github.com/namesben/Connect-four) |  |
 | David | Minesweeper | [link](https://github.com/comerbdavid/minesweeper) |  |
-| Foster | War |  |  |
-| Galina | Connect Four |  |  |
+| Foster | War | [link](https://github.com/fosterhorak/war-card-game) |  |
+| Galina | Connect Four | [link](https://git.generalassemb.ly/gkutieva/Connect-Four) |  |
 | Coby | Roulette |  |  |
 | Jonah | Mancala |  |  |
 | Michael | Connect Four |  |  |
@@ -17,6 +17,6 @@
 | Nathan (Sungbok) | Minesweeper |  |  |
 | Nicholas | Blackjack |  |  |
 | Richard | Battleship (or Blackjack) |  |  |
-| Sabona | Checkers |  |  |
+| Sabona | Checkers | [link](https://github.com/sabona10/Checkers) |  |
 | Stephanie | Connect Four |  |  |
 | Wesley | Mancala |  |  |
