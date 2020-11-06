@@ -6,14 +6,14 @@
 | Anthony | Connect Four |  |  |
 | Armeen | Connect Four |  |  |
 | Benjamin | Connect Four |  |  |
-| David | Minesweeper |  |  |
+| David | Minesweeper | [link](https://github.com/comerbdavid/minesweeper) |  |
 | Foster | War |  |  |
 | Galina | Connect Four |  |  |
 | Coby | Roulette |  |  |
 | Jonah | Mancala |  |  |
 | Michael | Connect Four |  |  |
 | Madison | Mancala |  |  |
-| Martin | War |  |  |
+| Martin | War | [link](https://github.com/BlueCadet-3/war) |  |
 | Nathan (Sungbok) | Minesweeper |  |  |
 | Nicholas | Blackjack |  |  |
 | Richard | Battleship (or Blackjack) |  |  |
