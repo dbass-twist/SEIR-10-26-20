@@ -331,30 +331,6 @@ I'll give you a moment to review these with a pair:
 
 **❓ What is `this` bound to within a method invoked on an object?**
 
-**❓ In this code:**
-
-```js
-function foo() {
-  console.log(this);
-};
-
-const bar = {
-  foo: foo
-};
-
-// Scenario 1:
-foo();
-
-// Scenario 2:
-bar.foo();
-```
-
-**❓ What will be logged out in _Scenario 1_, if not in strict mode?**
-
-**❓ What will be logged out in _Scenario 1_, if in strict mode?**
-
-**❓ What will be logged out in _Scenario 2_?**
-
 ## Further Study
 
 [Strict Mode - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
