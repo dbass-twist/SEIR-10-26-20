@@ -68,7 +68,7 @@ const person = {
 
 During the lesson on JS Classes, we learned about _prototype methods_, which are defined once, but able to be called by every instance (object) of that class.
 
-This efficient code reuse is made possible by `this`.
+This efficient code reuse is made possible by `this` and the [prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
 
 Imagine a poorly written class that constructs sprites for a game:
 
