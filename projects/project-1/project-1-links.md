@@ -14,9 +14,9 @@
 | Michael | Connect Four |  |  |
 | Madison | Mancala |  |  |
 | Martin | War | [link](https://github.com/BlueCadet-3/war) |  |
-| Nathan (Sungbok) | Minesweeper |  |  |
+| Nathan (Sungbok) | Minesweeper | [link](https://github.com/grey1287/Minesweeper) |  |
 | Nicholas | Blackjack |  |  |
 | Richard | Battleship (or Blackjack) | [link](https://github.com/turtlepower93/BattleShip) |  |
 | Sabona | Checkers | [link](https://github.com/sabona10/Checkers) |  |
 | Stephanie | Connect Four |  |  |
-| Wesley | Mancala |  |  |
+| Wesley | Mancala | [link](https://github.com/waugustine2/Mancala-Project-1-) |  |
