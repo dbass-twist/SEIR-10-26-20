@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|
 | Andrew | Connect Four (maybe Checkers) | [link](https://github.com/parke415/connect-four) |  |
 | Anthony | Connect Four | [link](https://github.com/Thedbzr/connectfour) |  |
-| Armeen | Connect Four |  |  |
+| Armeen | Connect Four | [link](https://github.com/Arm-And-Hammer/Connect-Four) |  |
 | Benjamin | Connect Four | [link](https://github.com/namesben/Connect-four) |  |
 | David | Minesweeper | [link](https://github.com/comerbdavid/minesweeper) |  |
 | Foster | War | [link](https://github.com/fosterhorak/war-card-game) |  |
