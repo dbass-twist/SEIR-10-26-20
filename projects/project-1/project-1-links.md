@@ -11,7 +11,7 @@
 | Galina | Connect Four | [link](https://github.com/gkutieva/Connect-Four) |  |
 | Coby | Roulette | [link](https://github.com/cobycobyk/project-1) |  |
 | Jonah | Mancala | [link](https://github.com/Jonahmallard/Mancala) |  |
-| Michael | Connect Four |  |  |
+| Michael | Connect Four | [link](https://github.com/mgrebowicz/connect-four) |  |
 | Madison | Mancala | [link](https://github.com/Madmaxbeyond/mancala-game) |  |
 | Martin | War | [link](https://github.com/BlueCadet-3/war) |  |
 | Nathan (Sungbok) | Minesweeper | [link](https://github.com/grey1287/Minesweeper) |  |
