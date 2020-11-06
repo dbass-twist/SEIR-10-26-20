@@ -10,7 +10,7 @@
 | Foster | War | [link](https://github.com/fosterhorak/war-card-game) |  |
 | Galina | Connect Four | [link](https://github.com/gkutieva/Connect-Four) |  |
 | Coby | Roulette | [link](https://github.com/cobycobyk/project-1) |  |
-| Jonah | Mancala |  |  |
+| Jonah | Mancala | [link](https://github.com/Jonahmallard/Mancala) |  |
 | Michael | Connect Four |  |  |
 | Madison | Mancala | [link](https://github.com/Madmaxbeyond/mancala-game) |  |
 | Martin | War | [link](https://github.com/BlueCadet-3/war) |  |
