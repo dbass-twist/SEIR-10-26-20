@@ -8,7 +8,7 @@
 | Benjamin | Connect Four | [link](https://github.com/namesben/Connect-four) |  |
 | David | Minesweeper | [link](https://github.com/comerbdavid/minesweeper) |  |
 | Foster | War | [link](https://github.com/fosterhorak/war-card-game) |  |
-| Galina | Connect Four |  |  |
+| Galina | Connect Four | [link](https://github.com/gkutieva/Connect-Four) |  |
 | Coby | Roulette | [link](https://github.com/cobycobyk/project-1) |  |
 | Jonah | Mancala |  |  |
 | Michael | Connect Four |  |  |
