@@ -18,5 +18,4 @@
 | Nicholas | Blackjack |  |  |
 | Richard | Battleship (or Blackjack) | [link](https://github.com/turtlepower93/BattleShip) |  |
 | Sabona | Checkers | [link](https://github.com/sabona10/Checkers) |  |
-| Stephanie | Connect Four |  |  |
 | Wesley | Mancala | [link](https://github.com/waugustine2/Mancala-Project-1-) |  |

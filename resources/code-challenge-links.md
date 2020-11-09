@@ -18,5 +18,4 @@
 | Nicholas | [link](https://git.generalassemb.ly/nnguyen20/daily-js-code-challenges) |  |  |  |
 | Richard | [link](https://git.generalassemb.ly/r-e-williams/daily-js-code-challenges/) |  |  |  |
 | Sabona | [link](https://git.generalassemb.ly/sabona/daily-js-code-challenges) |  |  |  |
-| Stephanie | [link](https://git.generalassemb.ly/sneher91/daily-js-code-challenges) |  |  |  |
 | Wesley | [link](https://git.generalassemb.ly/waugustine2/daily-js-code-challenges) |  |  |  |
