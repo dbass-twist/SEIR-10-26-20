@@ -16,6 +16,6 @@
 | Martin | War | [link](https://github.com/BlueCadet-3/war) |  |
 | Nathan (Sungbok) | Minesweeper | [link](https://github.com/grey1287/Minesweeper) |  |
 | Nicholas | Blackjack |  |  |
-| Richard | Battleship (or Blackjack) | [link](https://github.com/turtlepower93/BattleShip) |  |
+| Richard | Blackjack | [link](https://github.com/turtlepower93/backjack) |  |
 | Sabona | Checkers | [link](https://github.com/sabona10/Checkers) |  |
 | Wesley | Mancala | [link](https://github.com/waugustine2/Mancala-Project-1-) |  |
