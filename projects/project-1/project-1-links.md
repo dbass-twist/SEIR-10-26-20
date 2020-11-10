@@ -2,13 +2,13 @@
 
 | Student | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|
-| Andrew | Connect Four (maybe Checkers) | [link](https://github.com/parke415/connect-four) |  |
+| Andrew | Connect Four (maybe Checkers) | [link](https://github.com/parke415/connect-four) | [link](https://parke415.github.io/connect-four/) |
 | Anthony | Connect Four | [link](https://github.com/Thedbzr/connectfour) | [link](https://thedbzr.github.io/connectfour/) |
 | Armeen | Connect Four | [link](https://github.com/Arm-And-Hammer/Connect-Four) |  |
 | Benjamin | Connect Four | [link](https://github.com/namesben/Connect-four) |  |
-| David | Minesweeper | [link](https://github.com/comerbdavid/minesweeper) |  |
+| David | Minesweeper | [link](https://github.com/comerbdavid/minesweeper) | [link](https://comerbdavid.github.io/minesweeper/) |
 | Foster | War | [link](https://github.com/fosterhorak/war-card-game) | [link](https://fosterhorak.github.io/war-card-game/) |
-| Galina | Connect Four | [link](https://github.com/gkutieva/Connect-Four) |  |
+| Galina | Connect Four | [link](https://github.com/gkutieva/Connect-Four) | [link](https://gkutieva.github.io/Connect-Four/) |
 | Coby | Roulette | [link](https://github.com/cobycobyk/project-1) | [link](https://cobycobyk.github.io/project-1/) |
 | Jonah | Mancala | [link](https://github.com/Jonahmallard/Mancala) |  |
 | Michael | Connect Four | [link](https://github.com/mgrebowicz/connect-four) |  |
