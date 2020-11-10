@@ -15,7 +15,7 @@
 | Madison | Mancala | [link](https://github.com/Madmaxbeyond/mancala-game) | [link](https://madmaxbeyond.github.io/mancala-game/) |
 | Martin | War | [link](https://github.com/BlueCadet-3/war) | [link](https://bluecadet-3.github.io/war/) |
 | Nathan (Sungbok) | Minesweeper | [link](https://github.com/grey1287/Minesweeper) | [link](https://grey1287.github.io/Minesweeper/) |
-| Nicholas | Blackjack |  |  |
+| Nicholas | Blackjack | [link](https://github.com/NNguyen20/Blackjack) | [link](https://nnguyen20.github.io/Blackjack/) |
 | Richard | Blackjack | [link](https://github.com/turtlepower93/backjack) |  |
 | Sabona | Checkers | [link](https://github.com/sabona10/Checkers) |  |
 | Wesley | Mancala | [link](https://github.com/waugustine2/Mancala-Project-1-) | [link](https://waugustine2.github.io/Mancala-Project-1-/) |
