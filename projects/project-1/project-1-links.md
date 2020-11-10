@@ -17,5 +17,5 @@
 | Nathan (Sungbok) | Minesweeper | [link](https://github.com/grey1287/Minesweeper) | [link](https://grey1287.github.io/Minesweeper/) |
 | Nicholas | Blackjack | [link](https://github.com/NNguyen20/Blackjack) | [link](https://nnguyen20.github.io/Blackjack/) |
 | Richard | Blackjack | [link](https://github.com/turtlepower93/backjack) |  |
-| Sabona | Checkers | [link](https://github.com/sabona10/Checkers) |  |
+| Sabona | Checkers | [link](https://github.com/sabona10/Checkers) | [link](https://sabona10.github.io/Checkers/) |
 | Wesley | Mancala | [link](https://github.com/waugustine2/Mancala-Project-1-) | [link](https://waugustine2.github.io/Mancala-Project-1-/) |
