@@ -5,7 +5,6 @@
 | Andrew | [link](https://git.generalassemb.ly/parke415/daily-js-code-challenges) |  |  |  |
 | Anthony | [link](https://git.generalassemb.ly/thedbzr/daily-js-code-challenges) |  |  |  |
 | Armeen | [link](https://git.generalassemb.ly/armeen/daily-js-code-challenges) |  |  |  |
-| Benjamin | [link](https://git.generalassemb.ly/namesben/daily-js-code-challenges) |  |  |  |
 | David | [link](https://git.generalassemb.ly/DaCo/daily-js-code-challenges) |  |  |  |
 | Foster | [link](https://git.generalassemb.ly/fosterhorak/daily-js-code-challenges) |  |  |  |
 | Galina | [link](https://git.generalassemb.ly/gkutieva/daily-js-code-challenges) |  |  |  |
