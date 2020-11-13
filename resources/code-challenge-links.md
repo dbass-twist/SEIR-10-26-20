@@ -17,4 +17,4 @@
 | Nicholas | [link](https://git.generalassemb.ly/nnguyen20/daily-js-code-challenges) | 10% |  |  |
 | Richard | [link](https://git.generalassemb.ly/r-e-williams/daily-js-code-challenges/) | 100% |  |  |
 | Sabona | [link](https://git.generalassemb.ly/sabona/daily-js-code-challenges) | 20% |  |  |
-| Wesley | [link](https://git.generalassemb.ly/waugustine2/daily-js-code-challenges) | Syntax Error |  |  |
+
