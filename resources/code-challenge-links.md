@@ -10,7 +10,7 @@
 | Galina | [link](https://git.generalassemb.ly/gkutieva/daily-js-code-challenges) | 0% |  |  |
 | Coby (Jacob) | [link](https://git.generalassemb.ly/cobycobyk/daily-js-code-challenges) | 140% |  |  |
 | Jonah | [link](https://git.generalassemb.ly/jonahmallard/daily-js-code-challenges) | 100% |  |  |
-| Michael | [link](https://git.generalassemb.ly/mgrebowicz/daily-js-code-challenges) | Syntax Error |  |  |
+| Michael | [link](https://git.generalassemb.ly/mgrebowicz/daily-js-code-challenges) | 90% |  |  |
 | Madison | [link](https://git.generalassemb.ly/mlisle/daily-js-code-challenges) | 90% |  |  |
 | Martin | [link](https://git.generalassemb.ly/BlueCadet-3/daily-js-code-challenges) | 20% |  |  |
 | Nathan (Sungbok) | [link](https://git.generalassemb.ly/grey1287/daily-js-code-challenges) | 150% |  |  |
