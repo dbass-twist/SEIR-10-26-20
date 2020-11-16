@@ -216,7 +216,7 @@ In Unit 4, we go full MERN-stack:
 
 - If you prefer to use a command-line tool, our computers already have a tool called [cURL](https://en.wikipedia.org/wiki/CURL).
 
---
+
 ### How HTTP Requests Run Code on the Server
 
 - As full-stack web developers, we'll create front-ends that display in the browser.
