@@ -57,12 +57,12 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
     <tr>
       <td rowspan="3">Full-stack Development</td>
       <td align="center">4</td>
-      <td>Client-Server: HTTP Communications & RESTful Routing<br>NodeJS & ExpressJS Framework<br>MongoDB & MongooseJS ODM<br>Data Modeling</td>
+      <td>Client-Server: HTTP Communications & RESTful Routing<br>NodeJS & ExpressJS Framework<br>MongoDB & MongooseJS ODM<br>Computer Science</td>
       <td rowspan="3">MEN-stack CRUD Application</td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>Consuming & Producing APIs<br>Authentication using OAuth<br>Regular Expressions</td>
+      <td>Promises<br>Consuming APIs<br>Authentication using OAuth<br>User-Centric CRUD<br>Regular Expressions</td>
     </tr>
     <tr>
       <td align="center">6</td>
