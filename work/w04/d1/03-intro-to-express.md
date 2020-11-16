@@ -153,7 +153,9 @@
 		
 		
 	// Mount routes
-	
+	app.get('/', function (req, res) {
+   	  res.send('<h1>Hello World!</h1>');
+ 	});
 		
 	// Tell the app to listen on port 3000
 	app.listen(3000, function() {
@@ -407,7 +409,7 @@
 	```
 
 - Don't be intimidated by this code:<br>`path.join(__dirname, 'views')`...
-<br>
+
 - `path.join` is just a Node method that builds a properly formatted path from segment strings passed to it. `__dirname` is always available and represents the path of the current folder where the currently running code lives; and `views` is the name of the folder we created to hold our views.
 
 - `path` is a core Node module, but it still must be required before we can use it...
