@@ -260,20 +260,20 @@ Cool, let's learn about Node Modules...
 
 	```js	
 	module.exports.weekdays = 
-		['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'];
+	  ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'];
 	
 	module.exports.getWeekday = function(dayNo) {
-		if (dayNo < 0 || dayNo > 6) dayNo = 0;
-		return exports.weekdays[dayNo];
+	  if (dayNo < 0 || dayNo > 6) dayNo = 0;
+	  return exports.weekdays[dayNo];
 	};
 	```
 
 - Now let's test it in **main.js**:
 
 	```js
-	let daysOfWeek = require('./days-of-week');
+	const daysOfWeek = require('./days-of-week');
 	
-	let day = daysOfWeek.getWeekday(5);
+	const day = daysOfWeek.getWeekday(5);
 	console.log(day);
 	```
 	`Fr` should be logged out.
@@ -356,10 +356,10 @@ Now that you've created and used your own modules, let's see how we can install 
 	// Don't specify path when module is in node_modules
 	const request = require('request');
 	request(
-		'http://jsonplaceholder.typicode.com/users',
-		function(err, res, body) {
-			console.log(body);
-		}
+	  'http://jsonplaceholder.typicode.com/users',
+	  function(err, res, body) {
+	    console.log(body);
+	  }
 	);
 	```
 	> Note the first parameter in the callback is `err`.<br>This "error-first" callback signature is prevalent throughout Node.
@@ -412,29 +412,37 @@ Now that you've created and used your own modules, let's see how we can install 
 
 ### 💪 Practice - Modules #1
 
-Create a module named `random.js` that has a function **assigned** to the `module.exports` object and returns a random number, as an integer, between two numbers provided, inclusive; so that we could use it in our program like this:
+Create a module named `random.js`:
+
+1. That has a function **assigned** to the `module.exports` object.
+2. The function should define two parameters, `min` & `max`.
+3. The function shouuld return a random number, as an integer, between `min` & `max`, inclusive.
+4. Test the module in `main.js` like this:
 	
-```js
-const random = require('./utilities/random');
-for (let i = 0; i < 10; i++) {
+	```js
+	const random = require('./utilities/random');
+	for (let i = 0; i < 10; i++) {
 	console.log( random(100, 200) );
-}
-```
+	}
+	```
 
 ### 💪 Practice - Modules #2
 
-Create a module named `circle.js` that exports two functions:
+Create a module named `circle.js`:
 
-- `area`: Computes the area of a circle (radius squared X Pi), with the radius provided as an argument. 
-- `circumference`: Computes the circumference of a circle (radius X 2 X Pi), with the radius provided as an argument.  Hint: This is JS, so `Math.PI` is available.
+1. That exports two functions, both of which have a `radius` parameter defined.
+2. The functions should be named `area` & `circumference`.
+3. The functions should...
+	- `area`: Computes the area of a circle (radius squared X Pi), with the radius provided as an argument. 
+	- `circumference`: Computes the circumference of a circle (radius X 2 X Pi), with the radius provided as an argument
+4. Hint: This is JS, so `Math.PI` is available.
+5. Test the module in `main.js` like this:
 
-Use the module like this to test:
-
-```js
-const circle = require('./utilities/circle');
-console.log( circle.area(50) );  // 7853.98...
-console.log( circle.circumference(75) );  // 471.23...
-```
+	```js
+	const circle = require('./utilities/circle');
+	console.log( circle.area(50) );  // 7853.98...
+	console.log( circle.circumference(75) );  // 471.23...
+	```
 
 ## References
 
