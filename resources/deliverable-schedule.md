@@ -16,5 +16,6 @@ It is a requirement to complete at least **80%** of the following to to receive:
 | Fri 10/30 | [Tic-Tac-Toe](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/tree/master/work/w01/d5/tic-tac-toe-weekend) | Fri 11/06 |
 | Mon 11/02 | [CSS Flexbox/Grid](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w02/d1/02-flexbox-grid-lab.md) | Mon 11/09 |
 | Fri 11/06 | [Array Iterator Methods Lab](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w02/d5/02b-array-methods-lab.md) | Fri 11/13 |
+| Wed 11/18 | [Express "Dev Skills" Lab (Parts 1 & 2)](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w04/d3/04-dev-skills-lab-part-2.md) | Tue 11/24 |
 
 
