@@ -378,7 +378,7 @@ Since we need a router for our **todos** resource and don't need the **routes/us
 
 	/* GET users listing. */
 	router.get('/', function(req, res, next) {
-	res.send('respond with a resource');
+	  res.send('respond with a resource');
 	});
 	```
 	and add the following comment to remind us of how the router was mounted:
