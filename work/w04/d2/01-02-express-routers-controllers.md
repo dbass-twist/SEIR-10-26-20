@@ -177,7 +177,7 @@ MVC (Model-View-Controller) has been a proven approach for organizing code for d
 
 - **Model**:  Is the data concern
 - **View**:  Is the presentation concern
-- **Controller**:  Is the "processing" concern that processes HTTP requests coming from the browser, creates/reads/updates/deletes data using the models, and renders the views that are returned to the browser. 
+- **Controller**:  Is the "processing" concern that processes HTTP requests coming from the browser, CRUDs (creates/reads/updates/deletes) data using models, and ultimately responds to the browser's request by rendering views and returning the resulting HTML or by issuing a redirect. 
 
 ### MVC in Express
 
