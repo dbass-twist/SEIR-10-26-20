@@ -174,7 +174,7 @@ Examples include:  **User**, **Account**, **Post**, **Comment**, etc.
 
 - _A User has many Posts; and a Post belongs to a User_<br>This relationship is called a **one-to-many**.
 
-- _A User has and belongs to many Accounts; and an Account has and belongs to many Users_<br>This relationship is called a **many-to-many**.
+- _An Order has many Items; and an Item can be a part of many Orders_<br>This relationship is called a **many-to-many**.
 
 There is also a less common **one-to-one** relationship. For example, _A User has a Profile; and a Profile belongs to a User_
 
