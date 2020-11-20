@@ -7,11 +7,12 @@
 ## Routing
 1. Assume your controller was required as puppiesCtrl, and you had you wanted to render a show page. What would the appropriate RESTful route be?
 
+
 <br>
 
 **Solution:**
 ```js
-    router.get('/puppies/:id', puppiesCtrl.show);
+    router.get('/:id', puppiesCtrl.show);
 ```
 
 2. What would be issue with the following routes?
