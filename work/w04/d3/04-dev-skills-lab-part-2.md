@@ -26,7 +26,7 @@ The goal of the lab is to do put in a rep doing everything that you did during t
 
 2. When a new Dev Skill is submitted, the skill is added to the "database" and redirect the user to the **index** view.
 
-3. On the **show** view, display a _Delete Skill_ link that when clicked, deletes the skill from the "database" and redirects to the **index** view.
+3. On the **show** view, display a _Delete Skill_ button (the submit button within a `<form>`) that when clicked, deletes the skill from the "database" and redirects to the **index** view.
 
 Note: All routes should follow those described in the [RESTful/Resourceful routing chart](https://gist.github.com/jim-clark/17908763db7bd3c403e6)
 
