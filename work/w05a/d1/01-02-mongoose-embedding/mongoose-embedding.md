@@ -116,8 +116,8 @@ The following is an example of what an `Order` document might look like:
       _id: ObjectId('5fb80da98be8990e0186cc37'),
       quantity: 2,
       product: ObjectId('5fb81c435dca2113b71e1c44')
-		},
-		{
+    },
+    {
       _id: ObjectId('5fb80da98be4090e0260cd63'),
       quantity: 1,
       product: ObjectId('5fb81c435dca2113b71e1c44')
