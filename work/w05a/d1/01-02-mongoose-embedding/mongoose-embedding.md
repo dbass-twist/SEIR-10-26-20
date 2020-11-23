@@ -27,19 +27,26 @@
 
 1. Move into the mongoose-movies repo we used in the Intro to Mongoose lesson:  `cd ~/code/mongoose-movies`.
 
-2. It never hurts to ensure that the Node modules are installed:
+2. Sync your code with the remote:
 
 	```
-	$ npm install
+	git fetch --all
+	git reset --hard origin/master
+	```
+
+3. It never hurts to ensure that the Node modules are installed:
+
+	```
+	npm install
 	```
 	
-3. Open the project's folder in VS Code: `code .`
+4. Open the project's folder in VS Code: `code .`
 
-4. Open an integrated terminal sesson:  `control + backtick`
+5. Open an integrated terminal session:  `control + backtick`
 
-5. Start the Express app's server:  `nodemon`
+6. Start the Express app's server:  `nodemon`
 
-6. Browse to `localhost:3000`
+7. Browse to `localhost:3000`
 
 ## Review the Starter Code
 
