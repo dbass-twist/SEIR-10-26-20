@@ -251,7 +251,7 @@ Here's the form to add under the current `</section>` tag:
 
 > Nothing new, but be sure to review how the value for the `action` is being written.  
 
-A touch of styling. **Update** this existing CSS rule on line 68:
+A touch of styling. **Update** this existing CSS rule on line 69:
 
 ```css
 #new-form *, #add-review-form * {
