@@ -99,7 +99,7 @@ As you'll learn in the next unit, when using a SQL/Relational Database to implem
 
 However, modeling data in MongoDB/Mongoose is more flexible, and is left up to the developer to decide between:
 
-1. **Embedding** the related child/many-side data its parent document.  For example, in the pizza app, it would probably make sense to embed each **LineItem** within the **Order** document it belongs to:
+1. **Embedding** the related child/many-side data its parent document.  For example, in the pizza app, it would probably make sense to embed each **LineItem** within the **Order** document it belongs to.
 
 2. Using **referencing** where the related data is stored in their own documents and "link" them by storing one document's `ObjectId` in the document it relates to.  For example, each **Order** document could have a `customer` property that stores the `_id`.
 
