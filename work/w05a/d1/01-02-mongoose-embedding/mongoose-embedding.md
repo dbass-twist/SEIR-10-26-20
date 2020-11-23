@@ -107,22 +107,22 @@ The following is an example of what an `Order` document might look like:
 
 ```js
 {
-	_id: ObjectId('5fbaac9c14c9d08b73bafaa6'),
-	orderDate: ISODate('2020-11-22T15:56:12.499Z'),
-	customer: ObjectId('5fb81c435dca2113b71c5f21'),
-	isPaid: false,
-	lineItems: [
-		{
-			_id: ObjectId('5fb80da98be8990e0186cc37'),
-			quantity: 2,
-			product: ObjectId('5fb81c435dca2113b71e1c44')
+  _id: ObjectId('5fbaac9c14c9d08b73bafaa6'),
+  orderDate: ISODate('2020-11-22T15:56:12.499Z'),
+  customer: ObjectId('5fb81c435dca2113b71c5f21'),
+  isPaid: false,
+  lineItems: [
+    {
+      _id: ObjectId('5fb80da98be8990e0186cc37'),
+      quantity: 2,
+      product: ObjectId('5fb81c435dca2113b71e1c44')
 		},
 		{
-			_id: ObjectId('5fb80da98be4090e0260cd63'),
-			quantity: 1,
-			product: ObjectId('5fb81c435dca2113b71e1c44')
-		},
-	]
+      _id: ObjectId('5fb80da98be4090e0260cd63'),
+      quantity: 1,
+      product: ObjectId('5fb81c435dca2113b71e1c44')
+    },
+  ]
 }
 ```
 
@@ -156,10 +156,10 @@ Therefore, for mongoose-movies, it's fine to write the `reviewSchema` just above
 
 ```js
 const reviewSchema = new Schema({
-	content: String,
-	rating: {type: Number, min: 1, max: 5, default: 5}
+  content: String,
+  rating: {type: Number, min: 1, max: 5, default: 5}
 }, {
-	timestamps: true
+  timestamps: true
 });
 
 const movieSchema = new Schema({
@@ -169,12 +169,12 @@ With `reviewSchema` defined, we can now use it within the `movieSchema` as follo
 
 ```js
 const movieSchema = new Schema({
-	...
-	nowShowing: { type: Boolean, default: false },
-	// reviews is an array of review subdocs!
-	reviews: [reviewSchema]
+  ...
+  nowShowing: { type: Boolean, default: false },
+  // reviews is an array of review subdocs!
+  reviews: [reviewSchema]
 }, {
-	timestamps: true
+  timestamps: true
 });
 ```
 
@@ -234,18 +234,18 @@ Here's the form to add under the current `</section>` tag:
 <!-- new markup below -->
 <br><br><h2>Reviews</h2>
 <form id="add-review-form" method="POST"
-	action="/movies/<%= movie._id %>/reviews">
-	<label>Review:</label>
-	<textarea name="content"></textarea>
-	<label>Rating:</label>
-	<select name="rating">
-		<option value="1">1</option>
-		<option value="2">2</option>
-		<option value="3">3</option>
-		<option value="4">4</option>
-		<option value="5">5</option>
-	</select>
-	<input type="submit" value="Add Review">
+  action="/movies/<%= movie._id %>/reviews">
+  <label>Review:</label>
+  <textarea name="content"></textarea>
+  <label>Rating:</label>
+  <select name="rating">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+  </select>
+  <input type="submit" value="Add Review">
 </form>
 ```
 
@@ -255,23 +255,23 @@ A touch of styling. **Update** this existing CSS rule on line 68:
 
 ```css
 #new-form *, #add-review-form * {
-	font-size: 20px;
-	...
+  font-size: 20px;
+  ...
 ```
 
 and **add** this new CSS to the bottom:
 
 ```css
 #add-review-form {
-	display: grid;
-	grid-template-columns: auto auto;
-	gap: 1rem;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 1rem;
 }
 
 #add-review-form input[type="submit"] {
-	width: 8rem;
-	grid-column: 2 / 3;
-	margin-bottom: 2rem;
+  width: 8rem;
+  grid-column: 2 / 3;
+  margin-bottom: 2rem;
 }
 ```
 
@@ -340,7 +340,7 @@ Open the new **controllers/reviews.js** and let the coding commence:
 const Movie = require('../models/movie');
 
 module.exports = {
-	create
+  create
 };
 ```
 	
@@ -350,15 +350,15 @@ Let's write the `create` function:
 	
 ```js
 function create(req, res) {
-	Movie.findById(req.params.id, function(err, movie) {
-		// We can push subdocs into Mongoose arrays
-		movie.reviews.push(req.body);
-		// Save any changes made to the movie doc
-		movie.save(function(err) {
-			// Step 5:  Respond to the Request (redirect if data has been changed)
-			res.redirect(`/movies/${movie._id}`);
-		});
-	});
+  Movie.findById(req.params.id, function(err, movie) {
+    // We can push subdocs into Mongoose arrays
+    movie.reviews.push(req.body);
+    // Save any changes made to the movie doc
+    movie.save(function(err) {
+      // Step 5:  Respond to the Request (redirect if data has been changed)
+      res.redirect(`/movies/${movie._id}`);
+    });
+  });
 }
 ```
 
@@ -452,8 +452,8 @@ There's an amazing syntax that you can use to query documents based upon the pro
 ```js
 // Find the movie that contains a certain review
 Movie.findOne({'reviews._id': req.params.reviewId}, function(err, movie) {
-	// Wow, movie will be the doc that contains the review with an _id
-	// that equals that of the reviewId route parameter!
+  // Wow, movie will be the doc that contains the review with an _id
+  // that equals that of the reviewId route parameter!
 });
 ```
 
@@ -463,7 +463,7 @@ For another example, let's say you wanted to find all movies with at least one r
 
 ```js
 Movie.find({'reviews.rating': 5}, function(err, movies) {
-	console.log(movies);  // wow!
+  console.log(movies);  // wow!
 });
 ```
 
