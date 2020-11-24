@@ -20,7 +20,6 @@
 1. _AAU, when viewing a movie's detail page, I want to see a list of the current cast and add a new performer to the list_
 1. Essential Questions
 
-
 ## Setup
 
 There is starter code to sync with in the mongoose-movies folder:
@@ -123,9 +122,9 @@ The array property can be on either side (even both, but that's not usually reco
 
 ### ❓ Review Questions
 
-1. **True or False:  If a "book" document wants to reference its "author" document, a property of type `ObjectId` must be included in the `bookSchema`.**
+1. **What property type is used in schemas to reference other documents?**
 
-1. **True or False:  Assuming `Movie >---< Performer`, when associating a "performer" document with a "movie" document, both documents must already exist in the database.**
+2. **True or False:  Assuming `Movie >---< Performer`, when associating a "performer" document with a "movie" document, both documents must already exist in the database.**
 
 ## Associating Movies and Performers
 
@@ -311,7 +310,7 @@ That was fun!
 
 ## ❓ Essential Questions
 
-1. **What property type is used in schemas to reference other documents?**
+1. **True or False:  If a "book" document needs to reference its "author" document, a property of type `ObjectId` must be included in the `bookSchema`.**
 
 2. **Describe the difference between 1:M & M:M relationships.**
 
