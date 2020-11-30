@@ -1,8 +1,3 @@
-[click to view as a presentation](https://presentations.generalassemb.ly/c79f0ee9dd1f4b62f81fea41c15add24#/1)
-
-<link href="https://gist.githubusercontent.com/jim-clark/6919052ab15de680c120907d223c31b5/raw/9eedb5e3c01352b9ccda7264227f253be56a08b7/slide.css">
-
----
 <img src="https://i.imgur.com/PMyzlb1.png">
 
 # JavaScript Promises
@@ -43,7 +38,7 @@ Students Will Be Able To:
 	```sh
 	$ git pull upstream master
 	```
-1. `cd` into the<br>`.../work/w05/d3/01-js-promises/starter-code/mongoose-movies` folder.
+1. `cd` into the<br>`.../work/w05b/d1/01-js-promises/starter-code/mongoose-movies` folder.
 
 1. Open the `mongoose-movies` folder in your code editor.
 
