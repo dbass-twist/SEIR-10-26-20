@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|:---:|
 | Andrew | Kanjiko |  | [link](https://trello.com/b/qMRaUG0T/kanjiko) |  |
 | Anthony | Toyobaru Forum |  | [link](https://trello.com/b/RYBuefK3/toyobaru-forum) |  |
-| Armeen |  |  |  |  |
+| Armeen |  |  | [link](https://trello.com/b/Omtf3m3G/project-2) |  |
 | David | Zen Squirrel |  | [link](https://trello.com/b/5J7OZUoQ/zen-squirrel) |  |
 | Foster | Exercise Tracker |  | [link](https://trello.com/b/E1EXwrb3/ga-project-2-planning-exercise-tracking) |  |
 | Galina | Smoothie Recipes |  | [link](https://trello.com/b/TQc6ItJf/healthy-smoothie-recipies) |  |
@@ -14,7 +14,7 @@
 | Madison |  |  | [link](https://trello.com/b/S7WkBCgg/project-2-full-stack-crud-app) |  |
 | Martin | Doctor Express |  | [link](https://trello.com/b/PQ61vkrf/doctor-express) |  |
 | Nathan (Sungbok) |  |  | [link](https://trello.com/b/8sK8WgjV/project-2-planning) |  |
-| Nicholas |  |  |  |  |
+| Nicholas |  |  | [link](https://trello.com/b/Xh2MGQif/project-2-planning) |  |
 | Richard | BeanJuice |  | [link](https://trello.com/b/ooRiEMjn/beanjuice) |  |
 | Sabona | Clothes Store |  | [link](https://trello.com/b/NY9ZGmCr/project-2-clothes-store) |  |
 
