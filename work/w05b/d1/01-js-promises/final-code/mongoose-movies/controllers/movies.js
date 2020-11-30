@@ -38,9 +38,10 @@ function create(req, res) {
   for (let key in req.body) {
     if (req.body[key] === '') delete req.body[key];
   }
-  const movie = new Movie(req.body);
+  var movie = new Movie(req.body);
   movie.save(function(err) {
     if (err) return res.redirect('/movies/new');
+    // res.redirect('/movies');
     res.redirect(`/movies/${movie._id}`);
   });
 }
