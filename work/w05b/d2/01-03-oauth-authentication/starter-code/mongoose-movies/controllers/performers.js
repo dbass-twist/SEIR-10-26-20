@@ -33,10 +33,13 @@ function create(req, res) {
 }
 
 function newPerformer(req, res) {
-  Performer.find({}, function (err, performers) {
-    res.render('performers/new', {
-      title: 'Add Performer',
-      performers
-    });
-  })
+  Performer
+    .find({})
+    .sort('name')
+    .exec(function (err, performers) {
+      res.render('performers/new', {
+        title: 'Add Performer',
+        performers
+      });
+  });
 }

@@ -19,9 +19,11 @@ function show(req, res) {
     .populate('cast')
     .exec(function(err, movie) {
       // Native MongoDB syntax
-      Performer.find({_id: {$nin: movie.cast}}, function(err, performers) {
-        res.render('movies/show', { title: 'Movie Detail', movie, performers });
-      });
+      Performer
+        .find({_id: {$nin: movie.cast}})
+        .sort('name').exec(function(err, performers) {
+          res.render('movies/show', { title: 'Movie Detail', movie, performers });
+        });
     });
 }
 
