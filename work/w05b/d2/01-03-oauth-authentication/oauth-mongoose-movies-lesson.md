@@ -843,8 +843,8 @@ Below our login route we just added, let's add the callback route that Google wi
 router.get('/oauth2callback', passport.authenticate(
   'google',
   {
-    successRedirect : '/students',
-    failureRedirect : '/students'
+    successRedirect : '/movies',
+    failureRedirect : '/movies'
   }
 ));
 ```
