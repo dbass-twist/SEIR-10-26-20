@@ -12,9 +12,9 @@
 | Jonah |  |  | [link](https://trello.com/b/Acy45NUL/sei-project-2) |  |
 | Michael | Beer Can Racer |  | [link](https://trello.com/b/B9QIwCjf/beer-can-racer) |  |
 | Madison |  |  | [link](https://trello.com/b/S7WkBCgg/project-2-full-stack-crud-app) |  |
-| Martin | Doctor Express |  | [link](https://trello.com/b/PQ61vkrf/doctor-express) |  |
+| Martin | Doctor Express | [link](https://github.com/BlueCadet-3/doctor-express) | [link](https://trello.com/b/PQ61vkrf/doctor-express) |  |
 | Nathan (Sungbok) |  |  | [link](https://trello.com/b/8sK8WgjV/project-2-planning) |  |
 | Nicholas |  |  | [link](https://trello.com/b/Xh2MGQif/project-2-planning) |  |
-| Richard | BeanJuice |  | [link](https://trello.com/b/ooRiEMjn/beanjuice) |  |
+| Richard | BeanJuice | [link](https://github.com/turtlepower93/BeanJuice) | [link](https://trello.com/b/ooRiEMjn/beanjuice) |  |
 | Sabona | Clothes Store |  | [link](https://trello.com/b/NY9ZGmCr/project-2-clothes-store) |  |
 
