@@ -9,7 +9,7 @@
 | Foster | Exercise Tracker |  | [link](https://trello.com/b/E1EXwrb3/ga-project-2-planning-exercise-tracking) |  |
 | Galina | Smoothie Recipes |  | [link](https://trello.com/b/TQc6ItJf/healthy-smoothie-recipies) |  |
 | Coby | EasyKey |  | [link](https://trello.com/b/X0ohSAUv/easykey) |  |
-| Jonah |  |  | [link](https://trello.com/b/Acy45NUL/sei-project-2) |  |
+| Jonah | Video Game Reviews | [link](https://github.com/Jonahmallard/videogame-reviews) | [link](https://trello.com/b/Acy45NUL/sei-project-2) |  |
 | Michael | Beer Can Racer |  | [link](https://trello.com/b/B9QIwCjf/beer-can-racer) |  |
 | Madison |  |  | [link](https://trello.com/b/S7WkBCgg/project-2-full-stack-crud-app) |  |
 | Martin | Doctor Express | [link](https://github.com/BlueCadet-3/doctor-express) | [link](https://trello.com/b/PQ61vkrf/doctor-express) |  |
