@@ -75,7 +75,7 @@ Copying over the user's name from `req.user` in the comment `create` action will
 function create(req, res) {
   const book = new Book(req.body);
   // Assign the logged in user's id
-  book.user = req.user._id;
+  book.userRecommending = req.user._id;
   book.save(function(err) {
     if (err) return render(<new or custom error template>);
     // Probably want to go to newly added book's show view
@@ -90,7 +90,7 @@ function create(req, res) {
 function edit(req, res) {
   Book.findById(req.params.id, function(err, book) {
     // Verify book is "owned" by logged in user
-    if (!book.user.equals(req.user._id)) return res.redirect('/books');
+    if (!book.userRecommending.equals(req.user._id)) return res.redirect('/books');
     res.render('books/edit', {book});
   });
 }
@@ -123,7 +123,7 @@ function allBooks(req, res) {
     // Why not reuse the books/index template?
 	res.render('/books/index', {
 	  books,
-	  user: req.user,
+	  user: req.user,  // should use middleware instead (see below)
 	  nameSearch: req.query.name  // use to set content of search form
 	});
   });
