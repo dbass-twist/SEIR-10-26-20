@@ -15,6 +15,6 @@
 | Martin | Doctor Express | [link](https://github.com/BlueCadet-3/doctor-express) | [link](https://trello.com/b/PQ61vkrf/doctor-express) |  |
 | Nathan (Sungbok) | Mongoose Blog | [link](https://github.com/grey1287/mogoose-blog) | [link](https://trello.com/b/8sK8WgjV/project-2-planning) |  |
 | Nicholas | Gaming Dailies | [link](https://github.com/NNguyen20/GamingDailies) | [link](https://trello.com/b/Xh2MGQif/project-2-planning) |  |
-| Richard | NvrEndingStry | [link](https://github.com/turtlepower93/NvrEndngStry) | [link](https://trello.com/b/ooRiEMjn/beanjuice) |  |
+| Richard | NvrEndingStry | [link](https://github.com/turtlepower93/NvrEndngStry) | [link](https://trello.com/b/6xPmqMh0/nvrendngstry) |  |
 | Sabona | Clothes Store |  | [link](https://trello.com/b/NY9ZGmCr/project-2-clothes-store) |  |
 
