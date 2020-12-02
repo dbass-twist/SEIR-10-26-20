@@ -1151,7 +1151,7 @@ function deleteReview(req, res, next) {
     // https://mongoosejs.com/docs/subdocs.html
     const review = movie.reviews.id(req.params.id);
     // Ensure that the review was created by the logged in user
-    if (!review.user.equals(req.user._id)) return res.redirect(`/movies/${movies._id}`);
+    if (!review.user.equals(req.user._id)) return res.redirect(`/movies/${movie._id}`);
     // Remove the review using the remove method of the subdoc
     review.remove();
     // Save the updated movie
