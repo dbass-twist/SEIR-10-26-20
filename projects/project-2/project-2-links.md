@@ -6,7 +6,7 @@
 | Anthony | Toyobaru Forum | [link](https://github.com/Thedbzr/toyobaru-forum) | [link](https://trello.com/b/RYBuefK3/toyobaru-forum) |  |
 | Armeen |  |  | [link](https://trello.com/b/Omtf3m3G/project-2) |  |
 | David | Zen Squirrel |  | [link](https://trello.com/b/5J7OZUoQ/zen-squirrel) |  |
-| Foster | Exercise Tracker |  | [link](https://trello.com/b/E1EXwrb3/ga-project-2-planning-exercise-tracking) |  |
+| Foster | Exercise Tracker | [link](https://github.com/fosterhorak/exercise-tracker-app) | [link](https://trello.com/b/E1EXwrb3/ga-project-2-planning-exercise-tracking) |  |
 | Galina | Smoothie Recipes |  | [link](https://trello.com/b/TQc6ItJf/healthy-smoothie-recipies) |  |
 | Coby | EasyKey |  | [link](https://trello.com/b/X0ohSAUv/easykey) |  |
 | Jonah | Video Game Reviews | [link](https://github.com/Jonahmallard/videogame-reviews) | [link](https://trello.com/b/Acy45NUL/sei-project-2) |  |
