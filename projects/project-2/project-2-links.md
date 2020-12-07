@@ -6,7 +6,7 @@
 | Anthony | Toyobaru Forum | [link](https://github.com/Thedbzr/toyobaru-forum) | [link](https://trello.com/b/RYBuefK3/toyobaru-forum) | [link](https://toyobaru-forum.herokuapp.com/) |
 | Armeen | The Completion List | [link](https://github.com/Arm-And-Hammer/The-Completionist-List) | [link](https://trello.com/b/Omtf3m3G/project-2) | [link](https://the-completionist-list.herokuapp.com/) |
 | Coby | My Car Parts | [link](https://github.com/cobycobyk/my-car-parts) | [link](https://trello.com/b/KbgXXjLS/mycarparts) | [link](https://my-car-parts.herokuapp.com/designs) |
-| David | Zen Squirrel | [link](https://github.com/DaCoPro/Pomodoro-proj-mgnt) | [link](https://trello.com/b/5J7OZUoQ/zen-squirrel) |  |
+| David | Zen Squirrel | [link](https://github.com/DaCoPro/Pomodoro-proj-mgnt) | [link](https://trello.com/b/5J7OZUoQ/zen-squirrel) | [link](https://zen-squirrel.herokuapp.com/) |
 | Foster | Exercise Tracker | [link](https://github.com/fosterhorak/exercise-tracker-app) | [link](https://trello.com/b/E1EXwrb3/ga-project-2-planning-exercise-tracking) |  |
 | Galina | Smoothie Recipes | [link](https://github.com/gkutieva/Healthy-Smoothie-Recipies) | [link](https://trello.com/b/TQc6ItJf/healthy-smoothie-recipies) | [link](https://healthy-smoothie-recipes.herokuapp.com/users) |
 | Jonah | Video Game Reviews | [link](https://github.com/Jonahmallard/videogame-reviews) | [link](https://trello.com/b/Acy45NUL/sei-project-2) |  |
