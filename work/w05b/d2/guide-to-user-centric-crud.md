@@ -88,11 +88,28 @@ function create(req, res) {
 
 ```js
 function edit(req, res) {
-  Book.findById(req.params.id, function(err, book) {
-    // Verify book is "owned" by logged in user
-    if (!book.userRecommending.equals(req.user._id)) return res.redirect('/books');
+  Book.findOne({_id: req.params.id, userRecommending: req.user._id}, function(err, book) {
+    if (err || !book) return res.redirect('/books');
     res.render('books/edit', {book});
   });
+}
+```
+
+#### Update a book
+
+```js
+function update(req, res) {
+  Book.findOneAndUpdate(
+    {_id: req.params.id, userRecommending: req.user._id},
+    // update object with updated properties
+    req.body,
+    // options object with new: true to make sure updated doc is returned
+    {new: true},
+    function(err, book) {
+      if (err) return res.redirect('/books');
+      res.redirect(`books/${book._id}`);
+    }
+  );
 }
 ```
 
