@@ -106,7 +106,7 @@ function update(req, res) {
     // options object with new: true to make sure updated doc is returned
     {new: true},
     function(err, book) {
-      if (err) return res.redirect('/books');
+      if (err || !book) return res.redirect('/books');
       res.redirect(`books/${book._id}`);
     }
   );
