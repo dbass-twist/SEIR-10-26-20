@@ -2,7 +2,7 @@
 
 | Student | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|
-| Andrew | Kanjiko | [link](https://github.com/parke415/kanjiko) | [link](https://trello.com/b/qMRaUG0T/kanjiko) |  |
+| Andrew | Kanjiko | [link](https://github.com/parke415/kanjiko) | [link](https://trello.com/b/qMRaUG0T/kanjiko) | [link](https://kanjiko.herokuapp.com/) |
 | Anthony | Toyobaru Forum | [link](https://github.com/Thedbzr/toyobaru-forum) | [link](https://trello.com/b/RYBuefK3/toyobaru-forum) | [link](https://toyobaru-forum.herokuapp.com/) |
 | Armeen | The Completion List | [link](https://github.com/Arm-And-Hammer/The-Completionist-List) | [link](https://trello.com/b/Omtf3m3G/project-2) | [link](https://the-completionist-list.herokuapp.com/) |
 | Coby | My Car Parts | [link](https://github.com/cobycobyk/my-car-parts) | [link](https://trello.com/b/KbgXXjLS/mycarparts) | [link](https://my-car-parts.herokuapp.com/designs) |
