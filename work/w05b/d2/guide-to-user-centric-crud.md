@@ -254,25 +254,24 @@ However, you'll only want to render the above form if the comment was created by
 
 > Note that using a simple "X" as the button text, along with some styling provides for a decent UI.
 
-When the delete comment form is submitted, just like with the `update` action above, the `delete` action will need to find the **book** that the comment is embedded within based upon the `_id` of the comment being sent as a route parameter:
+When the delete comment form is submitted, just like with the `update` action above, the `delete` action will need to find the **book** that the comment is embedded within based upon the `_id` of the comment being sent as a route parameter and also ensuring that the logged in user was the creator of the comment:
 
 ```js
-function delete(req, res) {
+function deleteComment(req, res) {
   // Note the cool "dot" syntax to query on the property of a subdoc
-  Book.findOne({'comments._id': req.params.id}, function(err, book) {
-    // Find the comment subdoc using the id method on Mongoose arrays
-    // https://mongoosejs.com/docs/subdocs.html
-    const commentSubdoc = book.comments.id(req.params.id);
-    // Ensure that the comment was created by the logged in user
-    if (!commentSubdoc.userId.equals(req.user._id)) return res.redirect(`/books/${book._id}`);
-    // Remove the comment using the remove method of the subdoc
-    commentSubdoc.remove();
-    // Save the updated book
-    book.save(function(err) {
-      // Redirect back to the book's show view
-      res.redirect(`/books/${book._id}`);
-    });
-  });
+  Book.findOne(
+    {'comments._id': req.params.id, 'comments.userId': req.user._id},
+    function(err, book) {
+      if (!book || err)) return res.redirect(`/books/${book._id}`);
+      // Remove the subdoc (https://mongoosejs.com/docs/subdocs.html)
+      book.comments.remove(req.params.id);
+      // Save the updated book
+      book.save(function(err) {
+        // Redirect back to the book's show view
+        res.redirect(`/books/${book._id}`);
+      });
+    }
+  );
 }
 ```
 
