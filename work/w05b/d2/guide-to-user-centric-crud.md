@@ -84,6 +84,20 @@ function create(req, res) {
 }
 ```
 
+#### Deleting a book
+
+```js
+function delete(req, res) {
+  Book.findOneAndDelete(
+    // Ensue that the book was created by the logged in user
+    {_id: req.params.id, userRecommending: req.user._id}, function(err) {
+      // Deleted book, so must redirect to index
+      res.redirect('/books');
+    }
+  );
+}
+```
+
 #### Edit a book
 
 ```js
