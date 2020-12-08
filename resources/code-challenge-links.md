@@ -6,7 +6,7 @@
 | Anthony | [link](https://git.generalassemb.ly/thedbzr/daily-js-code-challenges) | 100% | 75% |  |
 | Armeen | [link](https://git.generalassemb.ly/armeen/daily-js-code-challenges) | 0% | 0% |  |
 | David | [link](https://git.generalassemb.ly/DaCo/daily-js-code-challenges) | 80% | 50% |  |
-| Foster | [link](https://git.generalassemb.ly/fosterhorak/daily-js-code-challenges) | 20% | Syntax Error |  |
+| Foster | [link](https://git.generalassemb.ly/fosterhorak/daily-js-code-challenges) | 20% | 100% |  |
 | Galina | [link](https://git.generalassemb.ly/gkutieva/daily-js-code-challenges) | 0% | 0% |  |
 | Coby (Jacob) | [link](https://git.generalassemb.ly/cobycobyk/daily-js-code-challenges) | 140% | 70% |  |
 | Jonah | [link](https://git.generalassemb.ly/jonahmallard/daily-js-code-challenges) | 100% | 50% |  |
