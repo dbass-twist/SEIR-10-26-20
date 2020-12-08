@@ -87,7 +87,7 @@ function create(req, res) {
 #### Deleting a book
 
 ```js
-function delete(req, res) {
+function deleteBook(req, res) {
   Book.findOneAndDelete(
     // Ensue that the book was created by the logged in user
     {_id: req.params.id, userRecommending: req.user._id}, function(err) {
