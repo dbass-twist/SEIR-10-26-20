@@ -16,5 +16,5 @@
 | Nathan (Sungbok) | Mongoose Blog | [link](https://github.com/grey1287/mogoose-blog) | [link](https://trello.com/b/8sK8WgjV/project-2-planning) | [link](https://nathan-recipe.herokuapp.com/) |
 | Nicholas | Gaming Dailies | [link](https://github.com/NNguyen20/GamingDailies) | [link](https://trello.com/b/Xh2MGQif/project-2-planning) | [link](https://the-daily-gamer.herokuapp.com/) |
 | Richard | NvrEndingStry | [link](https://github.com/turtlepower93/NvrEndngStry) | [link](https://trello.com/b/6xPmqMh0/nvrendngstry) | [link](https://nvrendngstry.herokuapp.com/) |
-| Sabona | Clothes Store | [link](https://github.com/sabona10/Shopping-Site) | [link](https://trello.com/b/NY9ZGmCr/project-2-clothes-store) |  |
+| Sabona | Clothes Store | [link](https://github.com/sabona10/Shopping-Site) | [link](https://trello.com/b/NY9ZGmCr/project-2-clothes-store) | [link](https://clothes-shoppin.herokuapp.com/) |
 
