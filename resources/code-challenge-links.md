@@ -14,7 +14,6 @@
 | Madison | [link](https://git.generalassemb.ly/mlisle/daily-js-code-challenges) | 90% | 45% |  |
 | Martin | [link](https://git.generalassemb.ly/BlueCadet-3/daily-js-code-challenges) | 20% | 45% |  |
 | Nathan (Sungbok) | [link](https://git.generalassemb.ly/grey1287/daily-js-code-challenges) | 150% | 100% |  |
-| Nicholas | [link](https://git.generalassemb.ly/nnguyen20/daily-js-code-challenges) | 10% | 5% |  |
 | Richard | [link](https://git.generalassemb.ly/r-e-williams/daily-js-code-challenges/) | 100% | 50% |  |
 | Sabona | [link](https://git.generalassemb.ly/sabona/daily-js-code-challenges) | 20% | 10% |  |
 
