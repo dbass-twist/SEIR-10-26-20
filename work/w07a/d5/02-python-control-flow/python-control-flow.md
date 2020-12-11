@@ -126,7 +126,7 @@ If the first operand is truthy, return it, otherwise return the second operand.
 
 If the first operand is falsey, return it, otherwise return the second operand.
 
-#### Examples
+##### Examples
 
 ```python
 True or False
@@ -155,6 +155,21 @@ False and True
 
 'hello' and 'tacos'
 # => 'tacos'
+```
+
+#### `not`
+
+"Flips" the truthiness/falseyness of its operand, and returns `True` or `False` 
+
+```python
+not True
+# => False
+
+not 123
+# => False
+
+not []
+# => True
 ```
 
 ## Control Flow
