@@ -262,7 +262,7 @@ function deleteComment(req, res) {
   Book.findOne(
     {'comments._id': req.params.id, 'comments.userId': req.user._id},
     function(err, book) {
-      if (!book || err)) return res.redirect(`/books/${book._id}`);
+      if (!book || err) return res.redirect(`/books/${book._id}`);
       // Remove the subdoc (https://mongoosejs.com/docs/subdocs.html)
       book.comments.remove(req.params.id);
       // Save the updated book
