@@ -52,8 +52,8 @@ Let's get some practice working with control flow and logic in Python!
 # exercise-03 Calculate Dog Years
 
 # Write the code that:
-# 1. Prompts the user to enter a dog's age in human years like this:
-#      Input a dog's age in human years: 
+# 1. Prompts the user to enter a dog's age like this:
+#      Input a dog's age: 
 # 2. Calculates the equivalent dog years, where:
 #      - The first two years count as 10 years each
 #      - Any remaining years count as 7 years each
