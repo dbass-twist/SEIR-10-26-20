@@ -2,7 +2,7 @@
 
 | Student | Link | Thru Unit 1 Progress<br>% of 10 | Thru Unit 2 Progress<br>% of 20 | Thru Unit 3 Progress<br>% of 30|
 |---|:---:|:---:|:---:|:---:|
-| Andrew | [link](https://git.generalassemb.ly/parke415/daily-js-code-challenges) | 100% | 50% |  |
+| Andrew | [link](https://git.generalassemb.ly/parke415/daily-js-code-challenges) | 100% | 105% |  |
 | Anthony | [link](https://git.generalassemb.ly/thedbzr/daily-js-code-challenges) | 100% | 75% |  |
 | Armeen | [link](https://git.generalassemb.ly/armeen/daily-js-code-challenges) | 0% | 0% |  |
 | David | [link](https://git.generalassemb.ly/DaCo/daily-js-code-challenges) | 80% | 50% |  |
