@@ -59,7 +59,7 @@
 	```python
 	{
 	  'student': 'Tina',
-	  'fav_food' 'Cheeseburger'
+	  'fav_food': 'Cheeseburger'
 	}
 	```
 - Iterate over `cohort` printing out each element.
