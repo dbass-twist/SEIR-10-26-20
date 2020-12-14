@@ -34,15 +34,15 @@ You may write the functions in a `.py` file or use a Python repl in repl.it
 	largest([10, 4, 2, 231, 91, 54])  # returns 231
 	```
 
-3. Write a function named `occurances` that takes two string arguments as input and counts the number of occurances of the second string inside the first string.
+3. Write a function named `occurrences` that takes two string arguments as input and counts the number of occurrences of the second string inside the first string.
 
 	For example:
 
 	```python
-	occurances('fleep floop', 'e')   # returns 2
-	occurances('fleep floop', 'p')   # returns 2
-	occurances('fleep floop', 'ee')  # returns 1
-	occurances('fleep floop', 'fe')  # returns 0
+	occurrences('fleep floop', 'e')   # returns 2
+	occurrences('fleep floop', 'p')   # returns 2
+	occurrences('fleep floop', 'ee')  # returns 1
+	occurrences('fleep floop', 'fe')  # returns 0
 	```
 
 4. Write a function named `product` that takes an *arbitrary* number of numbers, multiplies them all together, and returns the product.<br>(HINT: Review your notes on `*args`).
@@ -111,14 +111,14 @@ You may write the functions in a `.py` file or use a Python repl in repl.it
   <summary><strong>Challenge 3</strong></summary>
 
 ```python
-def occurances(string, substr):
-  # remove each occuance of substr
+def occurrences(string, substr):
+  # remove each occurrence of substr
   stripped_string = string.replace(substr, '')
   # compute based on length of the strings
   return (len(string) - len(stripped_string)) // len(substr)
 	
 # Python actually has a method to solve this too!
-def occurances(string, substr):
+def occurrences(string, substr):
   return string.count(substr)
 ```
 	
