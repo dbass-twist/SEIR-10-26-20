@@ -76,11 +76,43 @@ That's why the Python modules used to define routes in Django are named **urls.p
 
 Django should have been installed during installfest.  
 
-Let's verify the installation as follows:
+Let's verify the installation by typing `django-admin` and pressing enter in terminal. You should receive output similar to the following:
 
 ```
-$ python3 -m django --version
-# -> 3.x.x
+Type 'django-admin help <subcommand>' for help on a specific subcommand.
+
+Available subcommands:
+
+[django]
+    check
+    compilemessages
+    createcachetable
+    dbshell
+    diffsettings
+    dumpdata
+    flush
+    inspectdb
+    loaddata
+    makemessages
+    makemigrations
+    migrate
+    runserver
+    sendtestemail
+    shell
+    showmigrations
+    sqlflush
+    sqlmigrate
+    sqlsequencereset
+    squashmigrations
+    startapp
+    startproject
+    test
+    testserver
+Note that only Django core commands are listed as settings are not
+properly configured (error: Requested setting INSTALLED_APPS, but
+settings are not configured. You must either define the environment
+variable DJANGO_SETTINGS_MODULE or call settings.configure() before
+accessing settings.).
 ```
 
 If it's not installed, do a one-time install of the Django framework using the following command:
