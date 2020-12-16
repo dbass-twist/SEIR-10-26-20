@@ -21,7 +21,7 @@ Django was publicly released in 2005 and got its name from one of its creator's,
 
 It's designed for the rapid development of highly-secure web applications.
 
-Compared to the minimalist web framework of Express, Django is a much higher-level framework that provids lots of functionality baked-in, including:
+Compared to the minimalist web framework of Express, Django is a much higher-level framework that provides lots of functionality baked-in, including:
 
 - A powerful Object-Relational-Mapper (ORM) for working with relational databases using Python code instead of SQL.
 - A built-in admin app for browsing and manipulating data in the database.
@@ -139,7 +139,13 @@ MongoDB automatically creates a database when you use it for the first time.
 
 However, we're not so lucky with SQL databases where we will need to manually create a database that we want to use for a Django project in advance.
 
-Let's create one now in psql for the project we're about to code:
+Let's create one using the command installed with PostgreSQL:
+
+```
+$ createdb polls;
+```
+
+Alternatively, we could go into psql and create the database as follows:
 
 ```
 $ psql
