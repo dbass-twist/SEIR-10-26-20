@@ -1,4 +1,4 @@
-## SEI-CC-9 Team Project 3 Links
+## Project 3 Team Links
 
 | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
