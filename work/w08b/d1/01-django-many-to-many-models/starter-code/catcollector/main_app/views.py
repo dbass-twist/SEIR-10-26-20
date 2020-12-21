@@ -26,24 +26,14 @@ def cats_index(request):
   cats = Cat.objects.all()
   return render(request, 'cats/index.html', { 'cats': cats })
 
-
 def cats_detail(request, cat_id):
   cat = Cat.objects.get(id=cat_id)
-  # Get the toys the cat doesn't have
-  toys_cat_doesnt_have = Toy.objects.exclude(
-      id__in=cat.toys.all().values_list('id'))
+  # instantiate FeedingForm to be rendered in the template
   feeding_form = FeedingForm()
   return render(request, 'cats/detail.html', {
-      'cat': cat, 'feeding_form': feeding_form,
-      # Add the toys to be displayed
-      'toys': toys_cat_doesnt_have
+    # pass the cat and feeding_form as context
+    'cat': cat, 'feeding_form': feeding_form
   })
-
-
-def assoc_toy(request, cat_id, toy_id):
-  # Note that you can pass a toy's id instead of the whole object
-  Cat.objects.get(id=cat_id).toys.add(toy_id)
-  return redirect('detail', cat_id=cat_id)
 
 def add_feeding(request, cat_id):
 	# create the ModelForm using the data in request.POST
