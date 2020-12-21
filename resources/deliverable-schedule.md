@@ -20,3 +20,4 @@ It is a requirement to complete at least **80%** of the following to to receive:
 |  Various | Mongoose "Flights" Lab [Part 1](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w04/d5/03-04-mongoose-flights-lab-part-1.md), [Part 2](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w05a/d1/03-04-mongoose-flights-lab-part-2.md) and [Part 3](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w05a/d2/03-04-mongoose-flights-lab-part-3.md)| Fri 12/04 |
 | Fri 12/11 | [Python Intro/Control Flow Lab](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w07a/d5/03-control-flow-lab.md) | Fri 12/18 |
 | Fri 12/12 | [Python Containers Lab](https://git.generalassemb.ly/SEI-CC/SEIR-10-26-20/blob/master/work/w07b/d1/02-containers-lab.md) | Fri 12/19 |
+| Mon 12/21 | FinchCollector Django App | Mon 12/28 |
