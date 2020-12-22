@@ -6,8 +6,8 @@ import boto3
 from .models import Cat, Toy, Photo
 from .forms import FeedingForm
 
-S3_BASE_URL = 'https://s3-us-west-1.amazonaws.com/'
-BUCKET = 'catcollector'
+S3_BASE_URL = 'https://s3.us-west-1.amazonaws.com/'
+BUCKET = 'catcollector-seir-10-26-20-jbc'
 
 class CatCreate(CreateView):
   model = Cat
@@ -33,14 +33,12 @@ def cats_index(request):
 
 def cats_detail(request, cat_id):
   cat = Cat.objects.get(id=cat_id)
-  # Get the toys the cat doesn't have
-  toys_cat_doesnt_have = Toy.objects.exclude(id__in = cat.toys.all().values_list('id'))
-  # Instantiate FeedingForm to be rendered in the template
+  # instantiate FeedingForm to be rendered in the template
+  toys_cat_doesnt_have = Toy.objects.exclude(id__in=cat.toys.all().values_list('id'))
   feeding_form = FeedingForm()
   return render(request, 'cats/detail.html', {
-    # Pass the cat and feeding_form as context
+    # pass the cat and feeding_form as context
     'cat': cat, 'feeding_form': feeding_form,
-    # Add the toys to be displayed
     'toys': toys_cat_doesnt_have
   })
 
@@ -57,20 +55,18 @@ def add_feeding(request, cat_id):
   return redirect('detail', cat_id=cat_id)
 
 def add_photo(request, cat_id):
-	# photo-file was the "name" attribute on the <input type="file">
+  # photo-file will be the "name" attribute on the <input type="file"> used to upload the file
   photo_file = request.FILES.get('photo-file', None)
   if photo_file:
     s3 = boto3.client('s3')
-    # need a unique "key" for S3 / needs image file extension too
+    # need a unique "key" for s3 / but keep the images extension
     key = uuid.uuid4().hex[:6] + photo_file.name[photo_file.name.rfind('.'):]
-    # just in case something goes wrong
+    # just in case something went wrong
     try:
       s3.upload_fileobj(photo_file, BUCKET, key)
       # build the full url string
       url = f"{S3_BASE_URL}{BUCKET}/{key}"
-      # we can assign to cat_id or cat (if you have a cat object)
-      photo = Photo(url=url, cat_id=cat_id)
-      photo.save()
+      Photo.objects.create(url=url, cat_id=cat_id)
     except:
       print('An error occurred uploading file to S3')
   return redirect('detail', cat_id=cat_id)
