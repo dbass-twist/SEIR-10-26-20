@@ -105,7 +105,7 @@ To visualize the history of commits made to the repo we use the `git log` comman
 - **`$ git branch <branch_name>`** Creates a new branch with the given name.
 - **`$ git checkout <branch_name>`** Moves you to the branch (or commit in
   history) with the given name.
-- **`$ git checkout - b <branch_name>`** Creates a new branch and checks it
+- **`$ git checkout -b <branch_name>`** Creates a new branch and checks it
   out, all in one!
 - **`$ git merge <branch_name>`** Merges the branch cwith the given name into
   the current branch.
